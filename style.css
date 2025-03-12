@@ -103,6 +103,7 @@ p {
     text-align: center;
     padding: 40px;
     width: 100%; /* Faz com que o elemento atual fique 100% de tamanho do elemento pai */
+    box-sizing:border-box;
 }
 
 
